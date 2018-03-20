@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "magic_cloud"/>
+    <version value = "1"/>
+    <list>
+        <mapping class = "com.coolhu.magicloud.db.Province"/>
+        <mapping class = "com.coolhu.magicloud.db.City"/>
+        <mapping class = "com.coolhu.magicloud.db.County"/>
+    </list>
+</litepal>
